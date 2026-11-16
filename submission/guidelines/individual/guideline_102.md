@@ -1,7 +1,7 @@
 # Guideline gán nhãn —
 
 - Loại nhãn: Bounding box
-- Người viết: Nguyễn Hoàn Thiện
+- Người viết:102
 - Phiên bản: v0.1 
 - Dữ liệu: 40 ảnh, cạnh dài ≤ 960 px. Công cụ CVAT, xuất COCO 1.0.
 - Taxonomy hiện có (không đổi trong bản này): `car`, `truck`, `van`, `motorcycle`, `person`, `ignore_region`.
